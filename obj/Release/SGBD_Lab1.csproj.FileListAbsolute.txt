@@ -1,0 +1,9 @@
+F:\Facultate\SGBD\Labs\SGBD_Lab1\bin\Release\SGBD_Lab1.exe.config
+F:\Facultate\SGBD\Labs\SGBD_Lab1\bin\Release\SGBD_Lab1.exe
+F:\Facultate\SGBD\Labs\SGBD_Lab1\bin\Release\SGBD_Lab1.pdb
+F:\Facultate\SGBD\Labs\SGBD_Lab1\obj\Release\SGBD_Lab1.Form1.resources
+F:\Facultate\SGBD\Labs\SGBD_Lab1\obj\Release\SGBD_Lab1.Properties.Resources.resources
+F:\Facultate\SGBD\Labs\SGBD_Lab1\obj\Release\SGBD_Lab1.csproj.GenerateResource.cache
+F:\Facultate\SGBD\Labs\SGBD_Lab1\obj\Release\SGBD_Lab1.csproj.CoreCompileInputs.cache
+F:\Facultate\SGBD\Labs\SGBD_Lab1\obj\Release\SGBD_Lab1.exe
+F:\Facultate\SGBD\Labs\SGBD_Lab1\obj\Release\SGBD_Lab1.pdb
